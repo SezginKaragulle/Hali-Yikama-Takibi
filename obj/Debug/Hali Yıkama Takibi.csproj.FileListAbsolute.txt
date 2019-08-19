@@ -1,0 +1,53 @@
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.exe.config
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.exe
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.pdb
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Properties.Resources.resources
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.exe
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.pdb
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Giris.resources
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Anasayfa.resources
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.AlinacakSiparisler.resources
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.AlinacakSiparisEkleGuncelle.resources
+c:\users\admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.TeslimAlma.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Siparisler.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.SiparisEkleGuncelle.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Dagitimlar.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.DagitimGuncelle.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.TeslimEdildi.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.GelirGiderler.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.GelirGiderlerEkleGuncelle.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.SistemYonetimi.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.KullaniciEkleGuncelle.resources
+C:\Users\Admin\source\repos\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.KullaniciSifreDegistir.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.exe.config
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.exe
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.pdb
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.exe
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.pdb
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.csprojResolveAssemblyReference.cache
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.AlinacakSiparisEkleGuncelle.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.AlinacakSiparisler.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Anasayfa.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.DagitimGuncelle.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Dagitimlar.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.GelirGiderler.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.GelirGiderlerEkleGuncelle.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Giris.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.KullaniciEkleGuncelle.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.KullaniciSifreDegistir.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Properties.Resources.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.SiparisEkleGuncelle.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.Siparisler.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.SistemYonetimi.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.TeslimAlma.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali_Yıkama_Takibi.TeslimEdildi.resources
+C:\Users\ByGenius\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.csproj.GenerateResource.Cache
+E:\PROJE DOSYALARI\Biten Projeler\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.exe.config
+E:\PROJE DOSYALARI\Biten Projeler\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.exe
+E:\PROJE DOSYALARI\Biten Projeler\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.pdb
+C:\Users\Admin\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\bin\Debug\Hali Yıkama Takibi.exe.config
+C:\Users\Admin\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.exe
+C:\Users\Admin\Desktop\Hali Yıkama Takibi\Hali Yıkama Takibi\obj\Debug\Hali Yıkama Takibi.pdb
